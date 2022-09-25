@@ -1,2 +1,3 @@
-# course-ai
-NC Course Inteligencia Artificial
+# NC CALCULATOR
+
+- NC Calculator Basic
